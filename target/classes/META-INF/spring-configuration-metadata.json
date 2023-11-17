@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "com.intern.config.ApplicationProperties",
+      "sourceType": "com.intern.config.ApplicationProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
