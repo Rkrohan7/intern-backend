@@ -16,7 +16,7 @@ public class Answer implements Serializable {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name = "id")
+    @Column(name = "ids")
     private Long id;
 
     @Column(name = "answer")
