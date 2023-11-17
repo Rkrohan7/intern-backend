@@ -25,7 +25,7 @@ public class Answer implements Serializable {
     @Column(name = "correct_ans")
     private Boolean correctAns;
 
-    @Column(name = "question_ids")
+    @Column(name = "question_id")
     private Long questionId;
 
 //    @ManyToOne
